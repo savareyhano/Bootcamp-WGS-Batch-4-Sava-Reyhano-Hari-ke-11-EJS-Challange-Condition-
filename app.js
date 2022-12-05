@@ -11,7 +11,6 @@ app.get('/', (req, res) => {
     {
         nama: 'AKW',
         title: 'WebServer EJS',
-        cont,
     })
 })
 
